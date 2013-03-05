@@ -2,7 +2,7 @@
 My Vim bundles and configurations.
 
 ## Installation
-First follow the instructions to install spf13-vim then clone this project to your *$HOME* directory, as follow
+First follow the instructions to install [spf13-vim](https://github.com/spf13/spf13-vim) then clone this project to your *$HOME* directory, as follow
 
     git clone https://github.com/diegotoral/my-vim.git .my-vim
 
