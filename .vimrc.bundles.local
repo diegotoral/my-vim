@@ -1,1 +1,2 @@
 Bundle 'johnhamelink/blade.vim'
+Bundle 'terryma/vim-multiple-cursors'
